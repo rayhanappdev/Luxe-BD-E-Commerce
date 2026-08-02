@@ -1,0 +1,6 @@
+{
+  "name": "LUXE BD - Premium E-Commerce Platform",
+  "description": "Full-stack luxury e-commerce storefront, localized Bangladeshi checkout with bKash/Nagad/Rocket, customer tracking dashboard, and merchant admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
